@@ -367,3 +367,9 @@ Os testes funcionais confirmaram as operações de cadastro, consulta, atualiza�
 **Ferramentas:** Visual Studio Code, PowerShell, Maven, Java 21, Docker Desktop, PostgreSQL 16 e Spring Boot 3.3.5
 
 **Forma de entrega:** projeto compactado em ZIP, contendo o código-fonte, os testes automatizados, o arquivo `pom.xml`, o `Dockerfile`, o `compose.yaml`, o `README.md` e este `RELATORIO.md`. Não há dependência de publicação no GitHub para a execução ou avaliação local do projeto.
+
+## Repositório GitHub
+
+Código-fonte e documentação disponíveis em:
+https://github.com/LuizBarbosa04/api-alunos-spring-boot
+
