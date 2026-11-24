@@ -373,3 +373,13 @@ Os testes funcionais confirmaram as operações de cadastro, consulta, atualiza�
 Código-fonte e documentação disponíveis em:
 https://github.com/LuizBarbosa04/api-alunos-spring-boot
 
+
+## Evidências de execução
+
+As capturas de tela dos testes e da execução estão disponíveis no GitHub:
+
+1. [Testes automatizados — 5 aprovados](evidencias/01-testes.png)
+2. [Execução do JAR](evidencias/02-jar-executavel.png)
+3. [Containers Docker e PostgreSQL](evidencias/03-docker-containers.png)
+4. [Spring Boot Actuator — Health UP](evidencias/04-actuator-health.png)
+

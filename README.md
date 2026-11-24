@@ -268,3 +268,13 @@ Em 23/11/2026, foram confirmados:
 ## 13. Entrega
 
 O trabalho será entregue como projeto local compactado em ZIP, contendo código-fonte, testes, `pom.xml`, `Dockerfile`, `compose.yaml`, `README.md` e `RELATORIO.md`. Não é necessária publicação no GitHub para reproduzir os comandos descritos aqui.
+
+## Evidências de execução
+
+As capturas de tela dos testes e da execução estão disponíveis no GitHub:
+
+1. [Testes automatizados — 5 aprovados](evidencias/01-testes.png)
+2. [Execução do JAR](evidencias/02-jar-executavel.png)
+3. [Containers Docker e PostgreSQL](evidencias/03-docker-containers.png)
+4. [Spring Boot Actuator — Health UP](evidencias/04-actuator-health.png)
+
